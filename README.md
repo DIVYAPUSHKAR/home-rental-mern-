@@ -37,5 +37,26 @@ npm start
 step 7: Start Frontend
 Open another terminal:
 cd client
-npm start 
+npm start
+
+
+## 📸 Screenshots
+
+### Screenshot 1
+![Screenshot 1](IMAGES/Screenshot%202026-05-12%20154518.png)
+
+### Screenshot 2
+![Screenshot 2](IMAGES/Screenshot%202026-05-12%20154536.png)
+
+### Screenshot 3
+![Screenshot 3](IMAGES/Screenshot%202026-05-12%20154911.png)
+
+### Screenshot 4
+![Screenshot 4](IMAGES/Screenshot%202026-05-12%20154930.png)
+
+### Screenshot 5
+![Screenshot 5](IMAGES/Screenshot%202026-05-12%20155019.png)
+
+### Screenshot 6
+![Screenshot 6](IMAGES/Screenshot%202026-05-12%20155228.png)
 
