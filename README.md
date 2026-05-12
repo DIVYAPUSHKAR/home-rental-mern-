@@ -37,5 +37,5 @@ npm start
 step 7: Start Frontend
 Open another terminal:
 cd client
-npm start
+npm start 
 
