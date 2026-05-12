@@ -34,11 +34,11 @@ step 6: Run Project
 Start Backend Server
 cd server
 npm start
-step 7: Start Frontend
+ step 7: Start Frontend
 Open another terminal:
 cd client
 npm start
-
+```
 
 ## 📸 Screenshots
 
